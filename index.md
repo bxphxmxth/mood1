@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta https-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="shortcut icon" href="#">
+    <!-- Google font  -->
+    <!-- Architects Daughter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet"> 
+    <!-- Font awesome  -->
 
-You can use the [editor on GitHub](https://github.com/bxphxmxth/mood1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+    
+    <title>What's ur mood</title>
+</head>
+<body>
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<section>
 
-### Markdown
+    <div class="title">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            <p>Choose ur mood</p> 
 
-```markdown
-Syntax highlighted code block
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+</div>
+<div class="boite">
 
-[Link](url) and ![Image](src)
-```
+<img class="meh" src="./meh-regular.svg" alt="">
+<img class="surprise" src="./surprise-regular.svg" alt="">
+<img class="tear" src="./sad-tear-regular.svg" alt="">
+<img class="cry" src="./sad-cry-regular.svg" alt="">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</div>
+</section>
 
-### Jekyll Themes
+<div class="section2">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bxphxmxth/mood1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   
+<div class="title2">
+    <p> Don't be sad, life is magic</p>
+        </div>
+    <div class="boite">
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        
+
+        <h1 class="now">NOW U HAPPY</h1>
+
+        <img src="./smile-regular.svg" alt="">
+        
+
+
+    </div>
+
+
+    <div class="boiteSmile">
+
+
+    </div>
+
+       
+</div>
+
+
+
+
+
+<script src="main.js"></script>
+</body>
+</html>
